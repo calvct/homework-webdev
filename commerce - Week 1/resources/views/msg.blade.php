@@ -3,7 +3,7 @@
 <h3>Contact Information</h3>
 
 @if ($contactData)
-    <table>
+    <table class="table">
         <thead>
             <tr>
                 <th>Name</th>
